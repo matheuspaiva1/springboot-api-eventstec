@@ -33,6 +33,8 @@ public class Event {
 
     private Boolean remote;
 
-    private Date creationDate;
+    private Date date;
 
+    public void setDate(Date date) {
+    }
 }
